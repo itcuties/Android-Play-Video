@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">itcuties video player</string>
+    <string name="play_url">play from url</string>
+    <string name="play_on_youtube">play on youtube</string>
+    <string name="title_activity_select">choose video source</string>
+
+</resources>
